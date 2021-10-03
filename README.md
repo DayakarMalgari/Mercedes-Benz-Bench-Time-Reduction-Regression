@@ -20,3 +20,6 @@ Data is heavily binary in nature; 16 variables with zero variance, 340 out of 36
 the remaining features too do not have much variation; as a result of this none of the models performed well.
 
 Ridge and Deep Neural Network Models got the maximum R squared values of around .66
+
+
+
